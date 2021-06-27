@@ -2,54 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5eac8bf6-6298-4209-8258-4c1b25de83cb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/PlatformApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/config/CacheConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/config/HsqldbDatabaseConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/config/PrimaryDatabaseConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/config/RedisConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/config/SecondaryDatabaseConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/controller/BoardController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/controller/HomeController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/controller/RedisController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/controller/SpringSessionController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/model/Board.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/model/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/repository/BoardRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/repository/ProductRepository.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/repository/ProductRepositoryImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/service/BoardService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/service/ProductService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/java/com/jsoftware/platform/vo/DataItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/resources/sql/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/resources/sql/schema.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/resources/sqlmap/ProductMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/main/resources/sqlmap/SecondaryProductMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftware/src/test/java/com/jsoftware/platform/PlatformApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/src/main/java/com/jsoftware/admin/AdminApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/src/main/java/com/jsoftware/admin/config/HazelcastConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/src/main/java/com/jsoftware/admin/config/NotifierConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/src/main/java/com/jsoftware/admin/config/SecuritySecureConfiguration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jsoftwareAdmin/src/test/java/com/jsoftware/admin/AdminApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +23,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../pelican2/pelican" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -94,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624794797144</updated>
-      <workItem from="1624794802056" duration="399000" />
+      <workItem from="1624794802056" duration="2044000" />
     </task>
     <servers />
   </component>
