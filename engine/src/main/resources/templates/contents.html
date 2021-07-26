@@ -10,16 +10,23 @@
 <h1>Thymeleaf 게시판 Contents</h1>
 
 <input id="board_id" type="hidden" th:value="${board?.id}"/>
-<input id="board_title" type="text" class="form-control input-sm" th:value="${board?.title}"/>
+<div>
+    <p>title</p>
+    <input id="board_title" type="text" class="form-control input-sm"
+           th:value="${board?.title}" style="width: 50%;"/>
+</div>
+<div>
+    <p>contents</p>
 <textarea id="board_content" class="form-control input-sm"
-          maxlength="140" rows="70" style="height: 200px;"
+          maxlength="140" rows="70" style="width: 50%;height: 200px;"
           th:text="${board?.contents}"></textarea>
+</div>
 <span class="help-block"></span>
 <!-- 저장/수정/삭제 버튼 -->
 <div class="pull-right">
     <button class="btn btn-primary" id="insert" th:value="저장">저장</button>
-    <button class="btn btn-info"    id="update" th:value="수정">수정</button>
-    <button class="btn btn-danger"  id="delete" th:value="삭제">삭제</button>
+    <button class="btn btn-info" id="update" th:value="수정">수정</button>
+    <button class="btn btn-danger" id="delete" th:value="삭제">삭제</button>
 </div>
 
 <script>
