@@ -52,6 +52,12 @@ spring:
       name: sergey
       password: sergey
       roles: manager
+  thymeleaf:
+    prefix: classpath:templates/
+    check-template-location: true
+    suffix: .html
+    mode: HTML5
+    cache: false
 management:
   endpoint:
     health:
